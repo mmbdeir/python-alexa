@@ -3,7 +3,6 @@ import pyttsx3
 import openai
 
 r = sr.Recognizer() 
-filename = 'Recording.wav'
 openai.api_key = "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"
 text = ""
 
